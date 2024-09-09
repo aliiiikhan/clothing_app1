@@ -1,6 +1,5 @@
 import 'package:clothing_app1/onboardin_screen/onboarding_screen1.dart';
 import 'package:flutter/material.dart';
-import '../onboarding/onboarding_screen1.dart';
 
 class WelcomeScreen extends StatelessWidget {
   @override
